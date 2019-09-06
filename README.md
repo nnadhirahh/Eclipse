@@ -1,7 +1,7 @@
 # Eclipse
 surpluseats
 
-Concept Proposal
+<h2>Concept Proposal</h2>
 
 1.0 Problem Space
 
